@@ -6,7 +6,7 @@ This program allows the user to play Rock, Paper, Scissors against the computer.
 - Scissors cut paper
 - Paper covers rock
 - If both the choices are the same, it's a tie
-- Display the result at the end of each round
+- Display the result at the end of each round and a final scoreboard upon exit
 
 ## Purpose:
 This program is designed to demonstrate the basic knowledge of using functions in Python.
